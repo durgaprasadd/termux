@@ -1,7 +1,6 @@
 {
   "name": "termux",
   "version": "1.0.0",
-  "description": "",
   "main": "convergents.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/durgaprasadd/termux/issues"
   },
-  "homepage": "https://github.com/durgaprasadd/termux#readme"
+  "homepage": "https://github.com/durgaprasadd/termux#readme",
+  "description": ""
 }
